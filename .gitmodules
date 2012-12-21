@@ -1,0 +1,6 @@
+[submodule "meshfree"]
+	path = meshfree
+	url = git@github.com:epsilony/terse-meshfree
+[submodule "demo"]
+	path = demo
+	url = git@github.com:epsilony/terse-demo
